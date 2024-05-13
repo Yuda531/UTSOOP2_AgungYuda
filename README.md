@@ -19,17 +19,17 @@ Jcombobox, Jspinner, panel dan Jtabel sebagai berikut:
 hapus, ubah, cari data dan membersihkan isian teks (Tanpa Menggunakan Database), dengan
 Mengimplementasikan Method:
 
-a) Array
+   a) Array
 
-b) Class dan method abstract
+   b) Class dan method abstract
 
-c) extends AbstractTableModel
+   c) extends AbstractTableModel
 
-d) set method, get method
+   d) set method, get method
 
-e) interface KeyListener, MouseListener
+   e) interface KeyListener, MouseListener
 
-f) Font, Color
+   f) Font, Color
 
 
 **Catatan:** Silakan melihat kode sumber dan dokumentasi lebih lanjut di dalam repository ini. Terima kasih!
